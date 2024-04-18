@@ -19,4 +19,7 @@
     <string name="column_container">контейнер Column</string>
     <string name="box_container">контейнер Box</string>
     <string name="surface_container">контейнер Surface</string>
+    <string name="scaffold_container">контейнер Scaffold</string>
+    <string name="menu">MENU</string>
+    <string name="MyComposeApp">MyComposeApp</string>
 </resources>
